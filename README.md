@@ -1,6 +1,7 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Magic 8 Ball
+
+![image](https://github.com/nisasubozkurt/Magic-8-Ball/assets/95681404/b6a6dd39-8b55-43a4-9acb-6c895d86feaf)
 
 ## Our Goal
 
@@ -9,10 +10,3 @@ The objective of this challenge is to apply the skills you learned in the Dicee 
 ## What you will create
 
 We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
